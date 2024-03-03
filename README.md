@@ -18,12 +18,6 @@ There are a lot of digital artists/game developers who are making great digital 
 
 Hence, Artistify was made to enable individual artists to easily create their online portfolio, establish their brand's online presence, connect with other fellow community members and pave a way for their great career as an artist.
 
-
-## Demo
-
-Live hosted link: [Site Link](https://artistifycommunity.netlify.app/)
-
-
 ## Dev Tools/Technologies
 The app includes many characteristic features:
 
