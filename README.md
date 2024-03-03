@@ -54,10 +54,6 @@ The app includes many characteristic features:
 
 ![Signup Page](https://firebasestorage.googleapis.com/v0/b/artistifycommunity.appspot.com/o/assets%2FScreenshot%20(2820).png?alt=media&token=45cf2520-bb14-4d98-ae3d-95f5810e8baf)
 
-![Dashboard](https://firebasestorage.googleapis.com/v0/b/artistifycommunity.appspot.com/o/assets%2FScreenshot%20(2816).png?alt=media&token=88e11924-1316-462a-90cf-998b3177d884)
-
-![Artwork Detail](https://firebasestorage.googleapis.com/v0/b/artistifycommunity.appspot.com/o/assets%2FScreenshot%20(2817).png?alt=media&token=b7aa56d8-2b27-400f-aece-27904fa68024)
-
 ![Settings Profile](https://firebasestorage.googleapis.com/v0/b/artistifycommunity.appspot.com/o/assets%2FScreenshot%20(2818).png?alt=media&token=1249a659-5c82-4c59-8423-32984a1a331b)
 
 ![Create New Artwork](https://firebasestorage.googleapis.com/v0/b/artistifycommunity.appspot.com/o/assets%2FScreenshot%20(2819).png?alt=media&token=cc7202e7-d14a-4df4-964e-7ebc3cc3453a)
