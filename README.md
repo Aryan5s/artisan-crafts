@@ -23,8 +23,6 @@ Hence, Artistify was made to enable individual artists to easily create their on
 
 Live hosted link: [Site Link](https://artistifycommunity.netlify.app/)
 
-Projct Demo link: [Demo Link](https://youtu.be/E302nz_ihtA)
-
 
 ## Dev Tools/Technologies
 The app includes many characteristic features:
